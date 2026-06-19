@@ -1,4 +1,4 @@
-# 📄 UPDATED DOCUMENT 1: ENGLISH VERSION
+<!-- # 📄 UPDATED DOCUMENT 1: ENGLISH VERSION -->
 ## Complete Component Selection Report for 4-Axis Robotic Manipulator
 
 ---
